@@ -1,2 +1,2 @@
-# Welcome to Kunnekt 👋
-Starter text
+# Hello, from Konnekt 👋
+Nice to meet you! We're a web-based text/voice communications company focused on making talking with your friends online less of a hassle. We offer the same benefits that a certain other company does, but for free! Your data is also in good hands, never sold to a third-party, and encrypted. You won't have to worry about losing your account or personal information due to a (very unlikely) data breach. Not even Konnekt employees can read it! That's how committed we are to your safety.
